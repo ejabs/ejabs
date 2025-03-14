@@ -13,7 +13,6 @@
 - 🖥️ Full-stack developer passionate about building modern web apps.
 - 💡 Skilled in **React.js, Next.js, Node.js, Express.js, MongoDB, Firebase**.
 - 🌍 Open to remote work & freelance opportunities.
-- 🛠️ Currently working on **[Your Latest Project](https://yourprojectlink.com)**.
 - 🎯 Exploring **AI, Web3, and Advanced JavaScript**.
 - 📫 Reach me via **[Email](mailto:ejabena@gmail.com)** or **[LinkedIn](www.linkedin.com/in/joshua-ejabena)**.
 
